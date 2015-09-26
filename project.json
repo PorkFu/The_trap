@@ -1,0 +1,10 @@
+{
+    "name": "The_trap",
+    "version": "1.0.0",
+    "manifest_version": 1,
+    "project_type": "application",
+    "executable_type": "scratch",
+    "executable": "The_trap.xml",
+    "author": "PorkFu",
+    "minimum_firmware_version": 42
+}
